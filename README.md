@@ -22,16 +22,14 @@
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+## Technical Skills :
+- [x]	ETL (Extract, Transform, Load) methodology
+- [x]	Power Query for data cleaning and transformation
+- [x]	Data modeling with Power Pivot
+- [x]	DAX for calculated measures and metrics
 
-## Soft Skills:
-- [x]	Refined understanding of Sales Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+## Soft Skills :
+- [x]	In-depth understanding of finance analytics principles
+- [x]	User-centric report design with empathy and clarity
+- [x]	Meticulous optimization of report generation processes
+- [x]	Systematic approach to report development and planning
