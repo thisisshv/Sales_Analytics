@@ -29,7 +29,7 @@
 - [x]	DAX for calculated measures and metrics
 
 ## Soft Skills :
-- [x]	In-depth understanding of finance analytics principles
+- [x]	In-depth understanding of sales analytics principles
 - [x]	User-centric report design with empathy and clarity
 - [x]	Meticulous optimization of report generation processes
 - [x]	Systematic approach to report development and planning
